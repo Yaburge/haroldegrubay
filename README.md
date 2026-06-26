@@ -49,7 +49,7 @@ Built and maintained custom web-based management systems for internal operations
 
 <!-- Replace YOUR-USERNAME below with your real GitHub username -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yaburge&show_icons=true&theme=default" alt="GitHub Stats" height="160"/>
 </p>
 
 ---
