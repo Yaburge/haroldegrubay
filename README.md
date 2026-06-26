@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050d1a,35:1a0537,65:0d1b4a,100:050d1a&height=290&section=header&text=Harold%20Egrubay&fontSize=72&fontColor=00d4ff&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20AI%20Integration%20Engineer%20%7C%20Laravel%20Specialist&descAlignY=62&descSize=17&stroke=6c63ff&strokeWidth=2" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;AI+Integration+Engineer;PHP+8+%7C+Laravel+%7C+REST+API+Architect;AJAX+Long+Polling+%7C+Real-Time+Systems;AI-Powered+Apps+%7C+NLP+Integration;Building+Production-Ready+Systems" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;AI+Integration+Engineer;Laravel+%7C+REST+API+Architect;AJAX+Long+Polling+%7C+Real-Time;AI+NLP+Integration;Building+Production-Ready+Systems" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -24,7 +24,7 @@
 | &nbsp; | &nbsp; |
 |:---:|:---|
 | 💼 | **Full Stack Developer & AI Integration Engineer** |
-| 🎓 | BSIT — ACLC College of Tacloban · 2022–2026 |
+| 🎓 | BSIT — ACLC College of Tacloban, Tacloban City, Leyte · 2022–2026 |
 | 📍 | Tacloban City, Leyte, Philippines |
 | 🏢 | Intern @ Police Regional Office 8 · Feb–Jun 2026 |
 | 🤖 | I leverage AI to build faster, smarter, and better |
@@ -146,19 +146,16 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 SmartHR — HR & Payroll System
+### 🤖 SmartHR: HR and Payroll Management System
 📅 November 2025 – January 2026
 
 > AI-powered HR system with automated payroll processing and intelligent applicant screening via NLP resume parsing.
 
 **🔥 Highlights:**
-- **AI Resume Parser** — AI-powered NLP extracts skills, experience & qualifications from PDF resumes automatically
-- **AI Candidate Scoring** — Ranks applicants vs. job requirements without manual review
-- Automated payroll module — calculates salaries, taxes & deductions
-- IP-based time tracking & automated leave management (Sick/Vacation)
-- Real-time HR dashboard with workforce metrics & employee records
-- AJAX Long Polling for live attendance updates without page reloads
-- Multi-role RBAC — Admin, HR, Manager, Employee
+- Designed and automated a web-based payroll module that calculates salaries, taxes, and deductions, eliminating manual calculation errors and reducing processing time.
+- Built a comprehensive HR dashboard featuring IP-based time tracking and automated leave management (Sick/Vacation) to ensure high-accuracy attendance records.
+- Implemented a responsive administrative interface that provides real-time insights into workforce metrics and employee record history.
+- AI-powered NLP extracts skills, experience & qualifications from PDF resumes automatically.
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
@@ -169,17 +166,15 @@
 </td>
 <td width="50%" valign="top">
 
-### 💊 RPh Drughouse — Landing Page & CMS
+### 💊 RPh Drughouse Landing Page & CMS
 📅 November 2025 – Present
 
 > Custom CMS-powered franchise site built so non-technical pharmacy staff can manage all content independently.
 
 **🔥 Highlights:**
-- Custom CMS enabling non-technical staff to update news, blogs & listings without developer help
-- High-conversion landing page optimized for mobile and desktop performance
-- Seamless cross-device user journey for franchise partners & customers
-- Enhanced SEO structure for better discoverability
-- Streamlined content publishing with zero developer dependency
+- Developed a custom Content Management System (CMS) that empowers non-technical staff to update franchise news, blog articles, and service listings independently.
+- Designed a high-conversion landing page optimized for cross-device performance, ensuring a seamless user journey for mobile and desktop visitors.
+- Enhanced site navigation and SEO structure, facilitating easier access to information for prospective franchise partners and local customers.
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -197,11 +192,9 @@
 > Customer loyalty platform with physical card integration for a local air-conditioning service company.
 
 **🔥 Highlights:**
-- Customer loyalty points system integrated with physical reward cards
-- Automated tracking increasing repeat customer engagement
-- Dynamic product catalog landing page with testimonials section
-- Streamlined service booking process for better lead conversion
-- Boosted digital brand authority for a local service business
+- Architected a customer loyalty points system integrated with physical cards, automating reward tracking and increasing repeat customer engagement.
+- Developed a high-performance landing page featuring a dynamic product catalog and testimonial section to enhance digital brand authority.
+- Improved lead generation by streamlining the service booking process, resulting in a more efficient conversion path for local customers.
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
@@ -217,11 +210,9 @@
 > Digitized government feedback platform replacing paper-based surveys for a local municipality.
 
 **🔥 Highlights:**
-- Replaced paper-based LGU surveys with real-time digital data collection
-- Sentiment analysis on community feedback for local officials
-- Mobile-accessible UI — residents file issues remotely without visiting the hall
-- Improved citizen participation rates through intuitive design
-- Instant provincial reporting & data-driven insights dashboard
+- Digitized the local government's feedback process by building a platform that replaced paper-based surveys with real-time data collection and sentiment analysis.
+- Improved citizen participation rates by designing an intuitive, mobile-accessible UI, allowing residents to file issues remotely without visiting the municipal hall.
+- Streamlined provincial reporting for local officials, providing instant access to community feedback and data-driven insights.
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
