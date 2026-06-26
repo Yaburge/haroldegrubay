@@ -81,7 +81,6 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![REST API](https://img.shields.io/badge/RESTful_API-00D4FF?style=for-the-badge&logo=swagger&logoColor=white)
 ![Guzzle](https://img.shields.io/badge/Guzzle_HTTP-073551?style=for-the-badge&logo=php&logoColor=white)
-![Sanctum](https://img.shields.io/badge/Laravel_Sanctum-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 **🤖 AI & Integrations**
 
@@ -92,14 +91,12 @@
 **🗄️ Database**
 
 ![MySQL](https://img.shields.io/badge/MySQL_8-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Eloquent](https://img.shields.io/badge/Eloquent_ORM-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 **🛠️ Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -119,8 +116,8 @@
 | **API Consumption** | Consuming third-party APIs via cURL and Guzzle HTTP Client |
 | **AI API Integration** | AI Inference APIs — NLP, text classification, skill & entity extraction |
 | **Real-Time Features** | AJAX Long Polling for live dashboards, auto-refresh, real-time notifications |
-| **Laravel Core** | Eloquent ORM, Blade Templating Engine, Artisan CLI, Route Groups & Naming |
-| **Auth & Security** | Laravel Sanctum (API tokens), Role-Based Access Control (RBAC), Middleware |
+| **Laravel Core** | Blade Templating Engine, Artisan CLI, Route Groups & Naming |
+| **Auth & Security** | Role-Based Access Control (RBAC), Middleware |
 | **Form Handling** | Form Request Validation, server-side sanitization, custom error responses |
 | **File Handling** | File upload & storage (Laravel Storage Facade), PDF & resume document parsing |
 | **Database** | Migrations, Seeders, Model Factories, complex queries, Eloquent relationships |
