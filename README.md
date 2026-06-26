@@ -80,7 +80,6 @@
 ![PHP](https://img.shields.io/badge/PHP_8-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![REST API](https://img.shields.io/badge/RESTful_API-00D4FF?style=for-the-badge&logo=swagger&logoColor=white)
-![Guzzle](https://img.shields.io/badge/Guzzle_HTTP-073551?style=for-the-badge&logo=php&logoColor=white)
 
 **🤖 AI & Integrations**
 
