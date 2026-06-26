@@ -2,14 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050d1a,35:1a0537,65:0d1b4a,100:050d1a&height=290&section=header&text=Harold%20Egrubay&fontSize=72&fontColor=00d4ff&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20AI%20Integration%20Engineer%20%7C%20Laravel%20Specialist&descAlignY=62&descSize=17&stroke=6c63ff&strokeWidth=2" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=900&color=00D4FF&center=true&vCenter=true&width=780&lines=⚡+Full+Stack+Web+Developer;🤖+AI+Integration+%26+Automation+Engineer;🔴+PHP+8+%7C+Laravel+%7C+REST+API+Architect;🌐+AJAX+%26+Long+Polling+%7C+Real-Time+Systems;🧠+AI-Powered+Apps+%7C+NLP+Integration;🚀+Shipping+Production-Ready+Systems+Daily" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;AI+Integration+Engineer;PHP+8+%7C+Laravel+%7C+REST+API+Architect;AJAX+Long+Polling+%7C+Real-Time+Systems;AI-Powered+Apps+%7C+NLP+Integration;Building+Production-Ready+Systems" alt="Typing Animation"/>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Yaburge&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS&labelColor=050d1a"/>
 <img src="https://img.shields.io/github/followers/Yaburge?style=for-the-badge&color=6c63ff&labelColor=050d1a&label=FOLLOWERS"/>
-<img src="https://img.shields.io/badge/📍-Tacloban_City,_PH-00d4ff?style=for-the-badge&labelColor=050d1a"/>
-<img src="https://img.shields.io/badge/🚀_Status-Open_to_Work-00ff88?style=for-the-badge&labelColor=050d1a"/>
+<img src="https://img.shields.io/badge/Location-Tacloban_City_PH-00d4ff?style=for-the-badge&labelColor=050d1a"/>
+<img src="https://img.shields.io/badge/Status-Open_to_Work-00ff88?style=for-the-badge&labelColor=050d1a"/>
 
 </div>
 
@@ -17,50 +17,25 @@
 
 ---
 
-## `⚡ system.init() — Loading Developer Profile...`
+## 🧬 About Me
 
-```bash
-╔══════════════════════════════════════════════════════════════════╗
-║  harold@dev:~$ whoami                                            ║
-║                                                                  ║
-║  NAME     :  Harold Egrubay                                      ║
-║  ROLE     :  Full Stack Developer & AI Integration Engineer      ║
-║  SCHOOL   :  BSIT — AMA Computer Learning Center (2022–2026)    ║
-║  LOCATION :  Tacloban City, Leyte, Philippines                   ║
-║  INTERN   :  Police Regional Office 8 · Feb–Jun 2026            ║
-║  AI TOOLS :  AI-Assisted Development & Workflow Integration      ║
-║  STATUS   :  Open to Work ✅                                    ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<div align="center">
 
-```js
-const harold = {
-  role:      "Full Stack Developer & AI Integration Engineer",
-  education: "BSIT @ AMA Computer Learning Center, Tacloban (2022–2026)",
+| &nbsp; | &nbsp; |
+|:---:|:---|
+| 💼 | **Full Stack Developer & AI Integration Engineer** |
+| 🎓 | BSIT — ACLC College of Tacloban · 2022–2026 |
+| 📍 | Tacloban City, Leyte, Philippines |
+| 🏢 | Intern @ Police Regional Office 8 · Feb–Jun 2026 |
+| 🤖 | I leverage AI to build faster, smarter, and better |
+| ⚡ | PHP · Laravel · REST API · AJAX · Long Polling · MySQL |
+| 🚀 | **Open to Work** |
 
-  techStack: {
-    frontend:  ["HTML5", "CSS3", "JavaScript ES6+", "Bootstrap 5", "Tailwind CSS"],
-    backend:   ["PHP 8", "Laravel 10/11", "RESTful APIs", "AJAX", "Long Polling"],
-    database:  ["MySQL 8", "Eloquent ORM", "Migrations", "Seeders"],
-    ai:        ["AI API Integration", "NLP Models", "AI Resume Parsing"],
-    devTools:  ["Git", "GitHub", "VS Code", "Postman", "cURL", "Guzzle HTTP"],
-  },
+</div>
 
-  aiPoweredDev: {
-    tools:   ["AI-Assisted Development", "AI Coding Tools", "AI API Integration"],
-    impact:  "Ships production-ready features 2–3x faster with AI assistance",
-    mindset: "AI is my co-pilot, not a crutch 🚀"
-  },
+<br/>
 
-  superpowers: [
-    "Real AI integration in production apps (NLP & skill extraction)",
-    "Real-time systems via AJAX Long Polling",
-    "RESTful API development & third-party API consumption",
-    "Role-based multi-user system architecture",
-    "Delivering under high-stakes government deadlines"
-  ]
-};
-```
+> 🔥 Full stack developer who ships complete systems — from UI design to backend architecture. I integrate AI into both my workflow and the products I build. Fast learner, works under pressure, always delivering on deadline.
 
 <br/>
 
@@ -74,10 +49,10 @@ const harold = {
 
 | 🧠 Area | ⚡ How I Use AI |
 |:---|:---|
-| 🤖 **Architecture & Planning** | Use AI to plan system design, complex logic flows, and code structure |
+| 🤖 **Architecture & Planning** | AI to plan system design, complex logic flows, and code structure |
 | 🛠️ **Code Acceleration** | AI-assisted coding for faster development, smarter completions & suggestions |
 | 💬 **Debugging & Review** | AI-powered debugging sessions and code review to ship cleaner code |
-| 🔗 **Production Integration** | Integrated AI APIs directly into apps — NLP for resume parsing & skill extraction |
+| 🔗 **Production Integration** | Integrated AI APIs into real apps — NLP for resume parsing & skill extraction |
 
 </div>
 
@@ -152,6 +127,10 @@ const harold = {
 | **Email & Notifications** | Laravel Mailable, SMTP configuration, automated notification systems |
 | **Output Formats** | PDF generation (Dompdf), CSV/Excel data export |
 | **Session Mgmt** | Session & Cookie management, flash messages, state handling |
+| **CMS Development** | Custom Content Management Systems for non-technical users |
+| **IP Tracking** | IP-based time tracking & attendance verification |
+| **Payroll Automation** | Automated salary, tax, and deduction computation modules |
+| **SEO** | SEO-structured pages, semantic HTML, meta tag management |
 | **Architecture** | MVC pattern, Service Layer, DRY principles, multi-role system design |
 | **Performance** | Query optimization, eager loading, N+1 prevention |
 
@@ -167,17 +146,19 @@ const harold = {
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI HR Management System
+### 🤖 SmartHR — HR & Payroll System
+📅 November 2025 – January 2026
 
-> Smart HR portal powered by **AI** for automated resume analysis and intelligent candidate screening.
+> AI-powered HR system with automated payroll processing and intelligent applicant screening via NLP resume parsing.
 
 **🔥 Highlights:**
-- **AI Resume Parser** — AI-powered NLP extracts skills, experience & qualifications from uploaded PDF resumes
-- **AI Candidate Scoring** — Ranks applicants against job requirements automatically
-- **Real-Time Attendance** — AJAX Long Polling for live tracking without page reloads
-- **Auto-Refresh Dashboard** — Live updates via polling mechanism
-- **Performance Evaluation** — Automated metrics & reporting engine
-- **Multi-Role RBAC** — Admin, HR, Manager, Employee access layers
+- **AI Resume Parser** — AI-powered NLP extracts skills, experience & qualifications from PDF resumes automatically
+- **AI Candidate Scoring** — Ranks applicants vs. job requirements without manual review
+- Automated payroll module — calculates salaries, taxes & deductions
+- IP-based time tracking & automated leave management (Sick/Vacation)
+- Real-time HR dashboard with workforce metrics & employee records
+- AJAX Long Polling for live attendance updates without page reloads
+- Multi-role RBAC — Admin, HR, Manager, Employee
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
@@ -188,27 +169,87 @@ const harold = {
 </td>
 <td width="50%" valign="top">
 
+### 💊 RPh Drughouse — Landing Page & CMS
+📅 November 2025 – Present
+
+> Custom CMS-powered franchise site built so non-technical pharmacy staff can manage all content independently.
+
+**🔥 Highlights:**
+- Custom CMS enabling non-technical staff to update news, blogs & listings without developer help
+- High-conversion landing page optimized for mobile and desktop performance
+- Seamless cross-device user journey for franchise partners & customers
+- Enhanced SEO structure for better discoverability
+- Streamlined content publishing with zero developer dependency
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ❄️ Airtechno A/C Hub & Points System
+📅 April 2025 – July 2025
+
+> Customer loyalty platform with physical card integration for a local air-conditioning service company.
+
+**🔥 Highlights:**
+- Customer loyalty points system integrated with physical reward cards
+- Automated tracking increasing repeat customer engagement
+- Dynamic product catalog landing page with testimonials section
+- Streamlined service booking process for better lead conversion
+- Boosted digital brand authority for a local service business
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏛️ Alang-alang LGU Feedback System
+📅 August 2025 – November 2025
+
+> Digitized government feedback platform replacing paper-based surveys for a local municipality.
+
+**🔥 Highlights:**
+- Replaced paper-based LGU surveys with real-time digital data collection
+- Sentiment analysis on community feedback for local officials
+- Mobile-accessible UI — residents file issues remotely without visiting the hall
+- Improved citizen participation rates through intuitive design
+- Instant provincial reporting & data-driven insights dashboard
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🛒 POS & Inventory System
 
-> Full-featured Point-of-Sale system with real-time inventory tracking, analytics, and API-powered features.
+> Full-featured Point-of-Sale system with real-time inventory tracking and analytics.
 
 **🔥 Highlights:**
 - Real-time inventory tracking with low-stock alerts
-- AJAX-powered live product search & cart updates
+- AJAX-powered live product search & dynamic cart updates
 - Role-based access — Admin, Cashier, Manager
-- Sales analytics dashboard with export reporting
-- PDF receipt & summary report generation
+- Sales analytics dashboard with CSV/PDF export reporting
 - Third-party API integration for payment processing
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-00D4FF?style=flat-square&logo=swagger&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![AJAX](https://img.shields.io/badge/AJAX-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📝 Teacher Evaluation System
@@ -219,7 +260,7 @@ const harold = {
 - Fully anonymous secure evaluation architecture
 - Automated analytical reports with chart visualizations
 - Admin dashboard with filterable evaluation history
-- PDF export of evaluation summaries
+- PDF export of summaries via Dompdf
 - Email notifications via Laravel Mailable
 - Role-based access — Students, Teachers, Admins
 
@@ -229,23 +270,35 @@ const harold = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### ⚙️ PRO8 Internal Web Systems
+📅 February – June 2026
 
 > Mission-critical management systems built for law enforcement under high-stakes government deadlines.
 
 **🔥 Highlights:**
 - Custom-built for active operational internal use
 - High-security RBAC & audit log implementation
-- Collaborative design with gov't end-users
+- Collaborative requirements gathering with government end-users
 - Production-deployed in a live government environment
-- REST API-driven with strict security requirements
+- REST API-driven with strict operational security requirements
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-00D4FF?style=flat-square&logo=swagger&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### ➕ More on the Way
+
+Always building, always shipping — check pinned repos for the latest.
+
+[![GitHub](https://img.shields.io/badge/View_My_Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yaburge)
 
 </td>
 </tr>
@@ -257,22 +310,42 @@ const harold = {
 
 ## 💼 Professional Experience
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║  🏛️  FULL STACK WEB DEVELOPER — INTERN                              ║
-║  📍  Police Regional Office 8 (PRO8), Eastern Visayas, PH           ║
-║  📅  February 2026 – June 2026                                       ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║  ✅  Built web-based management systems for law enforcement ops     ║
-║  ✅  Collaborated directly with gov't end-users on requirements     ║
-║  ✅  Implemented role-based security for sensitive operations        ║
-║  ✅  Applied REST API & AJAX in high-stakes real-world deployments  ║
-║  ✅  Delivered production systems under tight government deadlines  ║
-║  ✅  Used AI-assisted development to accelerate delivery timelines  ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+### 🏛️ Full Stack Web Developer — Intern
+**Police Regional Office 8 (PRO8)** · Eastern Visayas, Philippines
+📅 February 2026 – June 2026
+
+- Built and maintained web-based management systems for internal law enforcement operations
+- Collaborated directly with government end-users on security and functional requirements
+- Implemented role-based security architecture for sensitive operational data
+- Applied REST API & AJAX long polling in high-stakes real-world deployments
+- Delivered production-ready systems under tight government deadlines
+- Leveraged AI-assisted development to accelerate delivery timelines
+
+<br/>
+
+---
+
+## 🎓 Education
+
+### 📚 Bachelor of Science in Information Technology
+**ACLC College of Tacloban** · Tacloban City, Leyte
+📅 2022 – 2026
+
+<br/>
+
+---
+
+## 🏅 Certifications & Awards
+
+<div align="center">
+
+| 🏆 Certification | 📅 Year |
+|:---|:---:|
+| 📡 Introduction to IoT and Microcontrollers | 2023 |
+| 💡 Empowering, Integrating and Building Digital Learning Competence | 2024 |
+| ⛓️ Blockchain Tech Workshop — Paytaca | 2025 |
+
+</div>
 
 <br/>
 
@@ -290,10 +363,6 @@ const harold = {
 <img src="https://streak-stats.demolab.com/?user=Yaburge&theme=tokyonight&hide_border=true&background=050d1a&stroke=6c63ff&ring=00d4ff&fire=00ff88&currStreakLabel=00d4ff&border_radius=12" width="80%" alt="GitHub Streak"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yaburge&theme=tokyo-night&hide_border=true&bg_color=050d1a&color=00d4ff&line=6c63ff&point=00ff88" width="90%" alt="Activity Graph"/>
-
-<!-- Optional: Enable this after setting up the GitHub Action for snake animation
-<img src="https://raw.githubusercontent.com/Yaburge/Yaburge/output/snake.svg" alt="Contribution Snake"/>
--->
 
 </div>
 
