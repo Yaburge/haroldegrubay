@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050d1a,35:1a0537,65:0d1b4a,100:050d1a&height=290&section=header&text=Harold%20Egrubay&fontSize=72&fontColor=00d4ff&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20AI%20Integration%20Engineer%20%7C%20Laravel%20Specialist&descAlignY=62&descSize=17&stroke=6c63ff&strokeWidth=2" width="100%"/>
 
-<a href="https://github.com/Yaburge">
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=900&color=00D4FF&center=true&vCenter=true&width=780&lines=⚡+Full+Stack+Web+Developer;🤖+AI+Integration+%26+Automation+Engineer;🔴+PHP+8+%7C+Laravel+%7C+REST+API+Architect;🌐+AJAX+%26+Long+Polling+%7C+Real-Time+Systems;🧠+Hugging+Face+%7C+NLP+%7C+AI-Powered+Apps;🚀+Shipping+Production-Ready+Systems+Daily" alt="Typing Animation"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=900&color=00D4FF&center=true&vCenter=true&width=780&lines=⚡+Full+Stack+Web+Developer;🤖+AI+Integration+%26+Automation+Engineer;🔴+PHP+8+%7C+Laravel+%7C+REST+API+Architect;🌐+AJAX+%26+Long+Polling+%7C+Real-Time+Systems;🧠+AI-Powered+Apps+%7C+NLP+Integration;🚀+Shipping+Production-Ready+Systems+Daily" alt="Typing Animation"/>
 
 <br/><br/>
 
@@ -30,7 +28,7 @@
 ║  SCHOOL   :  BSIT — AMA Computer Learning Center (2022–2026)    ║
 ║  LOCATION :  Tacloban City, Leyte, Philippines                   ║
 ║  INTERN   :  Police Regional Office 8 · Feb–Jun 2026            ║
-║  AI TOOLS :  Claude AI · GitHub Copilot · Hugging Face API      ║
+║  AI TOOLS :  AI-Assisted Development & Workflow Integration      ║
 ║  STATUS   :  Open to Work ✅                                    ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
@@ -44,18 +42,18 @@ const harold = {
     frontend:  ["HTML5", "CSS3", "JavaScript ES6+", "Bootstrap 5", "Tailwind CSS"],
     backend:   ["PHP 8", "Laravel 10/11", "RESTful APIs", "AJAX", "Long Polling"],
     database:  ["MySQL 8", "Eloquent ORM", "Migrations", "Seeders"],
-    ai:        ["Hugging Face Inference API", "NLP Models", "AI Resume Parsing"],
+    ai:        ["AI API Integration", "NLP Models", "AI Resume Parsing"],
     devTools:  ["Git", "GitHub", "VS Code", "Postman", "cURL", "Guzzle HTTP"],
   },
 
   aiPoweredDev: {
-    tools:   ["Claude AI", "GitHub Copilot", "ChatGPT"],
+    tools:   ["AI-Assisted Development", "AI Coding Tools", "AI API Integration"],
     impact:  "Ships production-ready features 2–3x faster with AI assistance",
     mindset: "AI is my co-pilot, not a crutch 🚀"
   },
 
   superpowers: [
-    "Real AI integration in production apps (Hugging Face NLP)",
+    "Real AI integration in production apps (NLP & skill extraction)",
     "Real-time systems via AJAX Long Polling",
     "RESTful API development & third-party API consumption",
     "Role-based multi-user system architecture",
@@ -74,12 +72,12 @@ const harold = {
 
 <div align="center">
 
-| 🧠 Tool | ⚡ How I Use It |
+| 🧠 Area | ⚡ How I Use AI |
 |:---|:---|
-| 🤖 **Claude AI** | System architecture, complex logic planning, code reviews & documentation |
-| 🛠️ **GitHub Copilot** | Real-time smart autocomplete and suggestions inside VS Code |
-| 💬 **ChatGPT** | Rapid prototyping, debugging sessions, and technical documentation |
-| 🤗 **Hugging Face** | NLP model integration for AI-powered resume parsing in production |
+| 🤖 **Architecture & Planning** | Use AI to plan system design, complex logic flows, and code structure |
+| 🛠️ **Code Acceleration** | AI-assisted coding for faster development, smarter completions & suggestions |
+| 💬 **Debugging & Review** | AI-powered debugging sessions and code review to ship cleaner code |
+| 🔗 **Production Integration** | Integrated AI APIs directly into apps — NLP for resume parsing & skill extraction |
 
 </div>
 
@@ -112,7 +110,7 @@ const harold = {
 
 **🤖 AI & Integrations**
 
-![Hugging Face](https://img.shields.io/badge/Hugging_Face_API-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![AI NLP](https://img.shields.io/badge/AI_NLP_Integration-FFD21E?style=for-the-badge&logo=probot&logoColor=black)
 ![AI Integration](https://img.shields.io/badge/AI_API_Integration-6c63ff?style=for-the-badge&logo=openai&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON_API-000000?style=for-the-badge&logo=json&logoColor=white)
 
@@ -144,7 +142,7 @@ const harold = {
 |:---|:---|
 | **RESTful API Dev** | Design & build REST APIs with proper HTTP methods, status codes, and versioning |
 | **API Consumption** | Consuming third-party APIs via cURL and Guzzle HTTP Client |
-| **AI API Integration** | Hugging Face Inference API — NLP, text classification, skill & entity extraction |
+| **AI API Integration** | AI Inference APIs — NLP, text classification, skill & entity extraction |
 | **Real-Time Features** | AJAX Long Polling for live dashboards, auto-refresh, real-time notifications |
 | **Laravel Core** | Eloquent ORM, Blade Templating Engine, Artisan CLI, Route Groups & Naming |
 | **Auth & Security** | Laravel Sanctum (API tokens), Role-Based Access Control (RBAC), Middleware |
@@ -171,10 +169,10 @@ const harold = {
 
 ### 🤖 AI HR Management System
 
-> Smart HR portal powered by **Hugging Face AI** for automated resume analysis and intelligent candidate screening.
+> Smart HR portal powered by **AI** for automated resume analysis and intelligent candidate screening.
 
 **🔥 Highlights:**
-- **AI Resume Parser** — Hugging Face NLP extracts skills, experience & qualifications from uploaded PDF resumes
+- **AI Resume Parser** — AI-powered NLP extracts skills, experience & qualifications from uploaded PDF resumes
 - **AI Candidate Scoring** — Ranks applicants against job requirements automatically
 - **Real-Time Attendance** — AJAX Long Polling for live tracking without page reloads
 - **Auto-Refresh Dashboard** — Live updates via polling mechanism
@@ -183,7 +181,7 @@ const harold = {
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face_API-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![AI API](https://img.shields.io/badge/AI_API-FFD21E?style=flat-square&logo=probot&logoColor=black)
 ![AJAX](https://img.shields.io/badge/AJAX_Long_Polling-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
